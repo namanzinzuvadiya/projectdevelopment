@@ -1,22 +1,25 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+<h1>How To Build Project</h1>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+Project Description: This is ChatBot Application build in Node.js. We need to give some input and according to that input system gives the output messages. Its the game adventure for you. 
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+HOW TO RUN?: You have to go to the link where you can find repository files. Then, download the files and put it in ine folder. In Visual Studio Code, run the application and write in console: "npm start". After that, it shows the message that port 3000 is listening. In last, go to your browser and type "localhost:3000" and the application is up and running locally.
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+You need to put below inputs to play the Game:
+--welcome
+--run
+--cut
+--free
+--call
+--kill
+--open
+--pick
+--throw
+--gun
+--crawl
+--flee
+--climb
 
-Marking
------
+NOTE: Put all of the input line by line and do not mess up with the inputs. Otherwise, application will stop!!!! One more thing, we have to close application and run again to play again!!!
 
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 50|
-|multiplayer - each person plays their own game against the bot.| 10|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+If you have any queries than message me on my personal email:
+zinzuvadiya.naman38@gmail.com
